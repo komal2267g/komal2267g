@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KOMAL CHAURASIYA</h1>
-<h3 align="center">🚀Aspiring DevOps Engineer 🤝 Let's Collaborate! 💡 I thrive on solving real-world challenges through technology. 🤝 I'm open to collaboration and new ideas — whether it's contributing to ongoing work or starting something fresh. 🚀 Let’s build solutions that matter.</h3>
+<h3 align="center">🚀Aspiring Software Developer 🤝 Let's Collaborate! 💡 I thrive on solving real-world challenges through technology. 🤝 I'm open to collaboration and new ideas — whether it's contributing to ongoing work or starting something fresh. 🚀 Let’s build solutions that matter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komal2267g&label=Profile%20views&color=0e75b6&style=flat" alt="komal2267g" /> </p>
 
