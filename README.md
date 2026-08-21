@@ -1,13 +1,22 @@
-<h1 align="center">Hi 👋, I'm KOMAL CHAURASIYA</h1>
-<h3 align="center">🚀Aspiring Software Developer 🤝 Let's Collaborate! 💡 I thrive on solving real-world challenges through technology. 🤝 I'm open to collaboration and new ideas — whether it's contributing to ongoing work or starting something fresh. 🚀 Let’s build solutions that matter.</h3>
+<h1 align="center">Hi 👋, I'm Komal Chaurasiya</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komal2267g&label=Profile%20views&color=0e75b6&style=flat" alt="komal2267g" /> </p>
+<h3 align="center">Software Developer | Java | Python | Backend | Distributed Systems</h3>
 
-- 🌱 I’m currently learning **Kubernetes Terraform AWS (EC2, IAM, S3)**
+<p align="center">
+I enjoy building reliable software, solving real-world engineering problems, and learning how systems work at scale.
+</p>
 
-- 💬 Ask me about **DevOps basics, GitHub Actions, CI/CD pipelines, Docker, Linux commands, or Kafka setup.**
+---
 
-- 📫 How to reach me **komalchaurasiya637@gmail.com**
+### 👩‍💻 About Me
+
+- 💻 Interested in **Software Development, Backend Engineering & Distributed Systems**
+- 🧠 Strong foundation in **DSA, OOP, Operating Systems, DBMS & Computer Networks**
+- 🚀 Building projects with **Java, Python, FastAPI, React & Node.js**
+- ⚙️ Hands-on with **Docker, Linux, GitHub Actions, Jenkins, Kafka & NGINX**
+- ☁️ Currently learning **AWS, Kubernetes & Terraform**
+- 🔧 I enjoy **debugging, problem solving and building practical software systems**
+- 🌱 Always learning and improving my engineering skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
